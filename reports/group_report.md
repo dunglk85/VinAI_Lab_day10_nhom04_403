@@ -7,7 +7,7 @@
 | Ngô Gia Bảo | Ingestion / Raw Owner | bbaolongngau@gmail.com |
 | Ngô Gia Bảo | Cleaning & Quality Owner | bbaolongngau@gmail.com |
 | Lê Kim Dũng | Embed & Idempotency Owner | |
-| Nguyễn Dương Linh | Monitoring / Docs Owner ||
+| Nguyễn Dương Ninh | Monitoring / Docs Owner ||
 
 **Ngày nộp:** 15/04/2026  
 **Repo:** [N/A]  
